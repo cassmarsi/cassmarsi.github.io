@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a multi-disciplinary artist working in sculpture, installation, fibres and performance. Usually working with themes of nostalgia, memory and relationships, my pieces are often self-referential and autobiographical, yet connected to larger themes and open to interpretation. I've always been a collector, an archiver. Over the years I have managed to turn my room into a cabinet of curiosities, filled with trinkets from around the world, from right here, from my past and from my present. I graduated twice from Concordia University with a BFA in Studio Arts and an Italian minor, and a BA in Honours Public History. Currently, I'm completing my masters in Public History at Carleton University.
+I'm a multi-disciplinary artist working in sculpture, installation, fibres and performance and a public historian in the making. Usually working with themes of nostalgia, memory and relationships, my pieces are often self-referential and autobiographical, yet connected to larger themes and open to interpretation. I've always been a collector, an archiver. Over the years I have managed to turn my room into a cabinet of curiosities, filled with trinkets from around the world, from right here, from my past and from my present. I graduated twice from Concordia University with a BFA in Studio Arts and an Italian minor, and a BA in Honours Public History. Currently, I'm completing my masters in Public History at Carleton University. You can find out more on my website [Artistorian](http://www.artistorian.com) and see my artwork [here](http://www.cassandramarsillo.ca).
 
 ### More Information
 
