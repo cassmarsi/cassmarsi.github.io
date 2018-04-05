@@ -13,7 +13,6 @@ title: Thirteen.
 - [Ethics](#ethics)
 - [TBC](#tbc)
 
-
 ## Introduction
 
 ## History without words
