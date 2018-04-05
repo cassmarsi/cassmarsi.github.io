@@ -5,8 +5,8 @@ title: Thirteen.
 
 # What you think you can do, and what you can actually do.
 
-- [Introduction](##introduction)
-- [History without words](##history-without-words)
+- [Introduction](#introduction)
+- [History without words](#history-without-words)
 
 ## Introduction
 
