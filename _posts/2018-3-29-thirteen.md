@@ -5,11 +5,16 @@ title: Thirteen.
 
 ### What you think you can do, and what you can actually do.
 
-tbc. 
+- [Introduction](#introduction)
+- [History without words](#history without words)
 
-- ethics
+# Introduction
+
+# History without words
+
 - invisible work
 - history without words
 - digital bricolage
 - shared digital authority
+- ethics
 - Impact Hub Ottawa -- check it out
