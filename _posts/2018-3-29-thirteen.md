@@ -3,7 +3,7 @@ layout: post
 title: Thirteen.
 ---
 
-# What you think you can do, and what you can actually do.
+# Reflections
 
 - [Introduction](#introduction)
 - [History without words](#history-without-words)
