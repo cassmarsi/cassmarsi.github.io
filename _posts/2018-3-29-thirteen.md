@@ -3,14 +3,14 @@ layout: post
 title: Thirteen.
 ---
 
-### What you think you can do, and what you can actually do.
+# What you think you can do, and what you can actually do.
 
-- [Introduction](#introduction)
-- [History without words](#history-without-words)
+- [Introduction](##introduction)
+- [History without words](##history-without-words)
 
-# Introduction
+## Introduction
 
-# History without words
+## History without words
 
 - invisible work
 - history without words
