@@ -7,14 +7,23 @@ title: Thirteen.
 
 - [Introduction](#introduction)
 - [History without words](#history-without-words)
+- [Invisible work](#invisible-work)
+- [Digital bricolage](#digital-bricolage)
+- [Shared digital authority](#shared-digital-authority)
+- [Ethics](#ethics)
+- [TBC](#tbc)
+
 
 ## Introduction
 
 ## History without words
 
-- invisible work
-- history without words
-- digital bricolage
-- shared digital authority
-- ethics
-- Impact Hub Ottawa -- check it out
+## Invisible work
+
+## Digital bricolage
+
+## Shared digital authority
+
+## Ethics
+
+## TBC
