@@ -46,7 +46,9 @@ How can I have [conversations with spaces](https://hcgilje.wordpress.com/about/)
 #### what are we supposed to take away from the project?
 #### how is this history?
 
+These are questions that I've asked myself, too, in important moments of self-doubt that have led me to think through the decisions I've made carefully and thoughtfully. Hence the past [twelve devlogs](https://cassmarsi.github.io/). So while data sonification was a way for me to engage with the past and present spaces of Ottawa in a new way, could this translate to people as well? While it was easy for people to imagine this as a sound or art project, it was harder to imagine it as history. What people get out of this project - out of listening to the sounds of Ottawa, the sounds of Ottawa's love stories - I can't always say. I imagine that people who have submitted their stories experience something different. I imagine that people who listen to the stories while walking along the paths will experience something different than someone who is exploring the map from home. 
 
+What I hope they get from it is a chance to reflect on what history could be.
 
 ## Invisible work
 
