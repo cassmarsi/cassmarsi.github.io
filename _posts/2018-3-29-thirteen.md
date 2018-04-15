@@ -3,7 +3,7 @@ layout: post
 title: Thirteen.
 ---
 
-# Reflections
+# Reflections slash paradata
 
 - [Introduction](#introduction)
 - [History without words](#history-without-words)
@@ -17,6 +17,8 @@ title: Thirteen.
 
 [logo]: /images/0407-OLS-3.jpg "Final Logo"
 
+Official project logo
+
 ## Introduction
 
 [Ottawa Love Stories](https://ottlovestories.wordpress.com) is growing. Just over a month ago, all the pieces of this digital adventure finally came together and I started experimenting with where it could go. But it all really began with our first class discussion, and that very crucial question that has inspired my thinking of my work in general since then: what if the public is just one person? As a public historian, what does it mean to create for, or with, or by thinking of just one person? 
@@ -24,7 +26,7 @@ title: Thirteen.
 When talking to people about this project, I've often been faced with having to explain what public history is. And I always start by saying if you ask six public historians to define public history, you'll get six different answers. Over the last few years, I've had so many conversations - - sometimes in circles - - about what public history is or isn't. The quick and easy response is the whole "history by the people for the people" thing, but it doesn't quite cut it when you think of other spheres in which public history operates: national museums, commemorations, government... I usually then explain that it's history done outside of or in collaboration with people, communities, organizations outside of academia. But my answer - always - refers to a collective. It took this class to turn that definition of public history on it's head.
 
 > "...no matter whether the PT is aimed at one person or many, no matter whether it is “signed”
-or anonymous, if it does not change someone’s life (aside from the artist) it fails." Hakim Bey, page 10 of *T.A.Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism*
+or anonymous, if it does not change someone’s life (aside from the artist) it fails." [Hakim Bey](https://ia800208.us.archive.org/14/items/al_Hakim_Bey_T.A.Z._The_Temporary_Autonomous_Zone_Ontological_Anarchy_Poetic_Terror/Hakim_Bey__T.A.Z.__The_Temporary_Autonomous_Zone__Ontological_Anarchy__Poetic_Terrorism_a4.pdf)
 
 Suddenly, I realized that my project didn't have to change live**s**. And, in fact, by thinking that way, I was discounting all the little, hidden, subtle ways we can connect with an individual person. It seems only fitting now, looking back, that the stories I would choose to tell would be ones of love; relationships that blossom from the little, hidden, the subtle actions and interactions between individuals. I could say this was intentional, but truthfully it wasn't. In fact, the realization that I wanted to work with love stories came about in probably the most typical way (for a historian): through a search in the archives. Browsing through newspapers from early and mid-twentieth century Ottawa, I started looking for interesting personal stories to start plotting on a map. These searches left me uninspired until, one class, I decided - for some reason - to type: "love story" into the search bar. After another unsuccessful browse through personals and advice columns, I turned to Google in exasperation.
 
@@ -34,7 +36,17 @@ At this point, I knew I wanted to work with sound and mapping. This, stemming fr
 
 ## History without words
 
-[Words](https://cassmarsi.github.io/one/) make our thoughts tangible, words make our ideas known. Words make us vulnerable. We count our words to make sure we've stayed within the acceptable limits. We calculate them, trying different combinations and intonations, favouring the poetic or the authoritative or the methaphorical depending on the stories we perform. We weigh words, choosing carefully between this or that; even the most subtle of variation in connotation is considered.
+[Words](https://cassmarsi.github.io/one/) make our thoughts tangible, words make our ideas known. Words make us vulnerable. We count our words to make sure we've stayed within the acceptable limits. We calculate them, trying different combinations and intonations, favouring the poetic or the authoritative or the methaphorical depending on the stories we perform. We weigh words, choosing carefully between this or that; even the most subtle of variation in connotation is considered. As historians, we often depend on words to tell our stories and do our work. But what if we're speaking to something that can't talk back with words?
+
+> “I want to hear the meaning of the past, but I know that I can’t. Nevertheless, when I hear an instrument, I can imagine the physicality of the player playing it; in its echoes and resonances I can discern the physical space. I can feel the bass; I can move to the rhythm. The music engages my whole body, my whole imagination. Its associations with sounds, music, and tones I’ve heard before create a deep temporal experience, a system of embodied relationships between myself and the past.” [Shawn Graham](https://programminghistorian.org/lessons/sonification)
+
+How can I have [conversations with spaces](https://hcgilje.wordpress.com/about/)? I wondered about writing history without words. How could I effectively tell stories without speaking, or writing? And, in fact, people have often asked me:
+
+#### but what are people supposed to get from the "songs"?
+#### what are we supposed to take away from the project?
+#### how is this history?
+
+
 
 ## Invisible work
 
