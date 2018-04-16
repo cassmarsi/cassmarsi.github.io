@@ -14,7 +14,7 @@ title: Thirteen.
 
 ![Image 1][logo]
 
-[logo]: /images/0407-OLS-3.jpg "Final Logo"
+[logo]: /images/littlelogo.jpg "Final Logo"
 
 Official project logo
 
@@ -33,6 +33,10 @@ At this point, I knew I wanted to work with sound and mapping. This, stemming fr
 
 **Where do Ottawa's love stories take place? What do they *sound* like?** Those are the questions I ask as I map and sonify the stories people have so generously chosen to share with me. Ottawa Love Stories is a community, but it’s about that individual experience of sharing your story, listening to it, or listening to other stories. It’s about the past, the present, and sometimes even the future. It’s about people, friendship, relationships, happiness, sadness, nostalgia, disappointment… love. It’s about the unique, it’s about choices, it’s about walking, hearing, knowing Ottawa differently. It’s creating a new history of the buildings, streets, and sidewalks we cross every day. And it's about changing our individual relationships with these spaces and their history. It’s a collaboration.
 
+![Image 2][logo 2]
+
+[logo 2]: /images/152384431732774666%20(1).jpeg "Other Logo"
+
 ## History without words
 
 [Words](https://cassmarsi.github.io/one/) make our thoughts tangible, words make our ideas known. Words make us vulnerable. We count our words to make sure we've stayed within the acceptable limits. We calculate them, trying different combinations and intonations, favouring the poetic or the authoritative or the methaphorical depending on the stories we perform. We weigh words, choosing carefully between this or that; even the most subtle of variation in connotation is considered. As historians, we often depend on words to tell our stories and do our work. But what if we're speaking to something that can't talk back with words?
@@ -49,6 +53,10 @@ These are questions that I've asked myself, too, in important moments of self-do
 
 What I hope they get from it is a chance to reflect on what history could be. That we can experience it in many ways, and that those experiences can be personal, experimental, sonified, wordless.
 
+![Image 3][logo 3]
+
+[logo 3]: /images/152384431732774666.jpeg "Other other Logo"
+
 ## The sound of Ottawa
 
 Part of working towards this history without words was actually realizing that Ottawa has a "sound". That is, a particular series of notes produced by the coordinates in and around the city. Because all the stories take place in the same city and its surroundings, they’re all located at 45 and -75 degrees latitude and longitude. And because these same numbers come up again and again, there’s a certain set of notes - in sequence - that make up the “sound of Ottawa”. This sequence repeats throughout the songs, but also within them.  Listen closely and you'll be able to point it out. 
@@ -63,7 +71,9 @@ The main part of the invisible work for this project, however, has been *learnin
 
 And, of course, the work needed to create the website and branding for this project is also hidden behind the final outcome. I originally wanted to create the website using another github theme. However, try as I may, I couldn't get any of them to work. So I forked and deleted at least seven different sites, some of them two-three times, but to no avail. Building a website on Wordpress was easier, but also took time: to design, to write the texts, to edit the layout. When I first started this project, I found a cute logo of a heart on Google and just used that (yikes super unethical I know). But I figured, this was just a class project that no one would ever see, and if worse comes to worse, I'd give credit (still yikes). Suddenly, Ottawa Love Stories was getting a lot more attention than I had bargained for. I panicked and made a quick thingy on photoshop. It was cute, but I wasn’t 100% happy. So a third logo was in the works. For this, I asked my friend who is a much more experienced graphic designer than I am. After consultation, multiple drafts, conversations about colour schemes and aesthetic, we came to this:
 
-[image of logo]
+![Image 4][logo 4]
+
+[logo 4]: /images/logo1.jpeg "Last Logo"
 
 I wanted something to represent the mapping component, and I love how the hearts look like little city grids. After that, I had to get the correct RGB codes for the colours so that I could make the rest of the site cohesive. I also run a [Facebook page](wwww.facebook.com/ottlovestories) and [Instagram account](www.instagram.com/ottlovestories) for the project. 
 
