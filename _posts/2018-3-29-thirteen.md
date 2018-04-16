@@ -7,10 +7,9 @@ title: Thirteen.
 
 - [Introduction](#introduction)
 - [History without words](#history-without-words)
+- [The sound of Ottawa](#the-sound-of-ottawa)
 - [Invisible work](#invisible-work)
-- [Digital bricolage](#digital-bricolage)
 - [Shared digital authority](#shared-digital-authority)
-- [Ethics](#ethics)
 - [TBC](#tbc)
 
 ![Image 1][logo]
@@ -48,14 +47,38 @@ How can I have [conversations with spaces](https://hcgilje.wordpress.com/about/)
 
 These are questions that I've asked myself, too, in important moments of self-doubt that have led me to think through the decisions I've made carefully and thoughtfully. Hence the past [twelve devlogs](https://cassmarsi.github.io/). So while data sonification was a way for me to engage with the past and present spaces of Ottawa in a new way, could this translate to people as well? While it was easy for people to imagine this as a sound or art project, it was harder to imagine it as history. What people get out of this project - out of listening to the sounds of Ottawa, the sounds of Ottawa's love stories - I can't always say. I imagine that people who have submitted their stories experience something different. I imagine that people who listen to the stories while walking along the paths will experience something different than someone who is exploring the map from home. 
 
-What I hope they get from it is a chance to reflect on what history could be.
+What I hope they get from it is a chance to reflect on what history could be. That we can experience it in many ways, and that those experiences can be personal, experimental, sonified, wordless.
+
+## The sound of Ottawa
+
+Part of working towards this history without words was actually realizing that Ottawa has a "sound". That is, a particular series of notes produced by the coordinates in and around the city. Because all the stories take place in the same city and its surroundings, they’re all located at 45 and -75 degrees latitude and longitude. And because these same numbers come up again and again, there’s a certain set of notes - in sequence - that make up the “sound of Ottawa”. This sequence repeats throughout the songs, but also within them.  Listen closely and you'll be able to point it out. 
+
+Even though each story's overlying notes are unique, you can tell that they are all from Ottawa. I'm sure if I did this with stories from Montreal, or Calgary, or Vancouver, they would have their own specific "sound".
 
 ## Invisible work
 
-## Digital bricolage
+Part of these devlogs was shedding light on the invisible work that goes into producing a project like this. It's something I've always thought about in my academic life. I'm a thinker -- I mean that a lot of preliminary work, for me, goes on in my mind. I like to reflect, make connections, do lots and lots of reading, collect ideas and inspiration. This is the first part of that invisible work. Having this space made that thinking process public and accessible. These last twelve devlogs represent what would usually be scribbled down in my notebooks or in the margins of readings (although probably a bit more curated -- but that's a whole other conversation). Conversation - that's other invisible work. Sharing ideas in class, or with the professor, or with friends is a crucial part of any project, but is usually removed from the outcome.
+
+The main part of the invisible work for this project, however, has been *learning* how to do it. As with any project, there's what you imagine you can do... and then facing the reality of what you can actually do. Deciding where people would access this project meant that I learned how to use [ARIS](https://fielddaylab.org/make/aris/), [Story Maps](https://storymaps.arcgis.com/en/), and [Voice Map](https://voicemap.me/) before deciding to stick with [My Maps](www.mymaps.google.com) on Google. It meant working out many, many, many kinks: realizing that My Maps only allowed you to create ten layers per map, which only let me included 5 stories (5 layers with the geolocation pins, and 5 layers with the paths); realizing that I couldn't have audio directly on the map with this application; realizing that none of the apps actually fully did what I wanted them to do; realizing that there's no way I have all the skills to create my own. So even though some part of the digital world is full of drafts and trials on each of these apps, it's hidden when you look at version 1.0 of the project today (which I've labelled as the "official" first draft, even though there have been countless before it). The same goes for [musicalgorithms](http://musicalgorithms.org/4.1/app/), where I've not only tried different techniques for the number of data included, the length of the notes, but also the scale (i.e. major, minor, etc). But my file containing all the trials isn't part of the final outcome.
+
+And, of course, the work needed to create the website and branding for this project is also hidden behind the final outcome. I originally wanted to create the website using another github theme. However, try as I may, I couldn't get any of them to work. So I forked and deleted at least seven different sites, some of them two-three times, but to no avail. Building a website on Wordpress was easier, but also took time: to design, to write the texts, to edit the layout. When I first started this project, I found a cute logo of a heart on Google and just used that (yikes super unethical I know). But I figured, this was just a class project that no one would ever see, and if worse comes to worse, I'd give credit (still yikes). Suddenly, Ottawa Love Stories was getting a lot more attention than I had bargained for. I panicked and made a quick thingy on photoshop. It was cute, but I wasn’t 100% happy. So a third logo was in the works. For this, I asked my friend who is a much more experienced graphic designer than I am. After consultation, multiple drafts, conversations about colour schemes and aesthetic, we came to this:
+
+[image of logo]
+
+I wanted something to represent the mapping component, and I love how the hearts look like little city grids. After that, I had to get the correct RGB codes for the colours so that I could make the rest of the site cohesive. I also run a [Facebook page](wwww.facebook.com/ottlovestories) and [Instagram account](www.instagram.com/ottlovestories) for the project. 
+
+Finally, as a collaborative, interactive project that requires participation, there's the invisible work that goes into reading messages, emails, staying in contact with people, making sure they know what they're signing up for, explaining the project, and reaching out with updates. 
 
 ## Shared digital authority
 
-## Ethics
+Part of this collaboration is also shared digital authority. As I've mentioned in a previous [devlog](https://cassmarsi.github.io/ten/), working with Bud and Patricia’s love story was starting to make me feel a little weird. I know the details of their lives together was made public through the article on the Ottawa Citizen, and I know I can’t ask their permission to use it because they have died, but something about mapping out their story was making me feel creepy. Making this (public) story public again, in a different way, just felt wrong. And that’s interesting because as historians, it’s what we do: we somehow find these arguably openly available stories in archives, or newspapers, or photographs, or a variety of databases and sources (though of course, there are issues of privilege, authority, and access to information that come into play at times), and we somehow claim to make them public. So why did those this particular project feel creepy?
+
+Would I still feel creepy if I would just be sharing the outcome with my classmates, and no one else? I don’t think so. But there’s something about creating this path, from where they started their life together in Ottawa, to where they are buried today, which people would then follow in order to hear the sonified outcome that felt like an intrusion. Oddly enough, while questions of ethics and ethical research don’t always come up when we’re working with the dead, it is precisely because Patricia and Bud are dead that I feel this way. If they were alive, and the cemetery was not the final coordinate of their song, would I still feel unsettled? I don’t think so.
+
+What I got from the seven people featured in the project now is consent -- which I never could have gotten from Patricia and Bud. In fact, I was surprised by the amount of people who wanted to share. We often think of love lives and love stories as private, but instead, I saw that people wanted to share and listen. People wanted to be a part of this community. A community which we are building together. And they are definitely building it with me:
+
+While I sent everyone the same instructions, it is their prerogative what to ultimately send. Some included long explanations of each location, some just labeled it with the most basic of markers (i.e. "first met", "first kiss"...), others gave no context at all. Some sent one long explanation at the beginning. Some wrote to me about friends. Longterm partners, new relationships, past relationships. They are generously creating what you ultimately see as Ottawa Love Stories.
 
 ## TBC
+
+Next for Ottawa Love Stories, I would like to work with someone on an app that will allow me to have all the stories in one place. Right now, the overlap that I wanted is not happening because of the limitations of My Maps. I also would like to try having the sonification happen in real time -- so, the coordinates will be sonified as you move through the city, creating a constant melody. Lastly, I would like to have a call out specifically for past love stories, so that we can start layering different times and places on the map.
